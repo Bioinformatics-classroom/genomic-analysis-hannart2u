@@ -1,5 +1,6 @@
 # UE génétique médicale 2018-05-17
 * Alicia Hannart
+
 ## Exercice 1
 
 ### Q1
@@ -32,6 +33,59 @@ Remarque : Pour chercher une délétion dans gnomAD : il faut préciser la base 
 
 Le variant n°3 (NC_000018.9:g. 53331929C>A) seble mériter uen étude plus approfondie car il est le seul a avoir un impact protéique et statistiquement, il est beaucoup moins présent dans la population générale à l'image du syndrome de Pitt-Hopkin étudié ici.
 
+## Exercice 2
 
+### Q1
+La variation se trouve dans le gène SHOX.
+
+### Q2
+1. SHORT STATURE, IDIOPATHIC, X-LINKED : Syndrome de Turner
+2. LERI-WEILL DYSCHONDROSTEOSIS 
+3. LANGER MESOMELIC DYSPLASIA
+
+### Q3
+L''absence du gène SHOX (dûe à l'absence du chromosome X dans le caryotype des femmes atteintes par ce syndrome) provoque notamment la petite taille des individues.
+
+### Q4
+La notation HGVS de cette variation au niveau génomique est : NM_000451.3:c.399G>C.
+
+### Q5
+NM : Variation génomique : le plus fiable dans nos bases de données généralement
+_000023 : Chromosome X
+.10 : 1àème version du gène
+g. : ADN génomique
+596474G>C : en position 595474 : substitution du G par un C
+
+### Q6
+NM_000451.3(SHOX_i001):p.(Glu133Asp)
+
+### Q7
+NM : Séquence génomique
+_000451 : Numéro correspondant au transcrit
+.3 : Version de ce gène
+(SHOX_i001) : nom du gène 
+p. : affection au niveau de la protéine
+(Glu133Asp) : La Glu en position 133 ets remplacée par un Asp.
+
+### Q8
+
+
+### Q
+### Q
+### Q
+### Q
+### Q
+### Q
+### Q
+### Q
+### Q
+### Q
+### Q
+### Q
+### Q
+### Q
+### Q
+### Q
+### Q
 
 
