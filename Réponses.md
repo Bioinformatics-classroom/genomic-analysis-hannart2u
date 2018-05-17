@@ -68,10 +68,14 @@ p. : affection au niveau de la protéine
 (Glu133Asp) : La Glu en position 133 ets remplacée par un Asp.
 
 ### Q8
+Il s'agit d'une mutation faux-sens par le remplacement d'un acide glutamique (GAG) par un acide aspartique (GAC) sans création de codon stop, sans décalage de l'ORF.
+
+### Q9
+(http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=chrX%3A595464%2D595484&hgsid=669218391_4Byvn1ugtEfyEFAemHnRIZGKQrMU)
+
+### Q10
 
 
-### Q
-### Q
 ### Q
 ### Q
 ### Q
