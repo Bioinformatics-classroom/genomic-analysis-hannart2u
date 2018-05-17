@@ -30,6 +30,7 @@ Remarque : Pour chercher une délétion dans gnomAD : il faut préciser la base 
 
 ### Q6
 
+Le variant n°3 (NC_000018.9:g. 53331929C>A) seble mériter uen étude plus approfondie car il est le seul a avoir un impact protéique et statistiquement, il est beaucoup moins présent dans la population générale à l'image du syndrome de Pitt-Hopkin étudié ici.
 
 
 
