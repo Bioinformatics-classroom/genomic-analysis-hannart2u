@@ -89,17 +89,27 @@ Il se trouve dans une région peu conservée parmi les espèces.
 Le variant se trouve dans le domaine "homeobox".
 
 ### Q15
+(https://www.ncbi.nlm.nih.gov/pubmed/7815426)
+(https://www.ncbi.nlm.nih.gov/pubmed/6954848)
+
+### Q16
+(https://www.ensembl.org/Homo_sapiens/Tools/VEP/Results?db=core;tl=7rm6pftTnUvoEB2s-4193828)
+
+### Q17
+Certaines séquences sont Ensembl et d'autres refseq. Certaines séquences sont déterminées bioinformatiquement (XR)
+
+### Q18
+
+### Q19
+(http://wannovar.wglab.org/done/159927/jURFPaXB_fBjR868/index.html)
+
+### Q20
+DOI: 10.1038/gim.2015.30 (https://www.nature.com/articles/gim201530)
+
+### Q21
 
 
-### Q
-### Q
-### Q
-### Q
-### Q
-### Q
-### Q
-### Q
-### Q
-### Q
+### Q22
+
 
 
