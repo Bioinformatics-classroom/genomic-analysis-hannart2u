@@ -50,22 +50,22 @@ L''absence du gène SHOX (dûe à l'absence du chromosome X dans le caryotype de
 La notation HGVS de cette variation au niveau génomique est : NM_000451.3:c.399G>C.
 
 ### Q5
-NM : Variation génomique : le plus fiable dans nos bases de données généralement
+NC : Complete genomic molecules
 _000023 : Chromosome X
 .10 : 1àème version du gène
 g. : ADN génomique
-596474G>C : en position 595474 : substitution du G par un C
+595474G>C : en position 595474 : substitution du G (référence) par un C (alternatif)
 
 ### Q6
 NM_000451.3(SHOX_i001):p.(Glu133Asp)
 
 ### Q7
-NM : Séquence génomique
+NM : mRNA
 _000451 : Numéro correspondant au transcrit
 .3 : Version de ce gène
-(SHOX_i001) : nom du gène 
+(SHOX_i001) : nom du gène et n° d'isoforme
 p. : affection au niveau de la protéine
-(Glu133Asp) : La Glu en position 133 ets remplacée par un Asp.
+(Glu133Asp) : La Glu en position 133 est remplacée par un Asp.
 
 ### Q8
 Il s'agit d'une mutation faux-sens par le remplacement d'un acide glutamique (GAG) par un acide aspartique (GAC) sans création de codon stop, sans décalage de l'ORF.
@@ -74,13 +74,23 @@ Il s'agit d'une mutation faux-sens par le remplacement d'un acide glutamique (GA
 (http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=chrX%3A595464%2D595484&hgsid=669218391_4Byvn1ugtEfyEFAemHnRIZGKQrMU)
 
 ### Q10
+On trouve que le brin est le brin positif. Donc le gène est situé sur le brin sens.
+
+### Q11
+Il comporte 6 exons.
+
+### Q12
+Il s'agit du 3èm exon sur -;
+
+### Q13
+Il se trouve dans une région peu conservée parmi les espèces.
+
+### Q14
+Le variant se trouve dans le domaine "homeobox".
+
+### Q15
 
 
-### Q
-### Q
-### Q
-### Q
-### Q
 ### Q
 ### Q
 ### Q
